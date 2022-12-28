@@ -1,3 +1,5 @@
 # sut-midterm-lab
 
-## B6303044 Chookiat Kainta >> Section 2
+## B6303044 Chookiat Kainta
+
+### Section 2
